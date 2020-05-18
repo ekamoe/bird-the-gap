@@ -1,2 +1,2 @@
 # bird-the-gap
-Interactive Web Maps to Inspire Birding, Inform Scientific Research, and Support Conservation Action
+Interactive web maps to inspire engagement with the natural world, inform scientific research, andsupport conservation action
