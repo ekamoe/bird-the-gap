@@ -4,4 +4,4 @@ A capstone project by MLIS candidate Ellen Namakaokealoha Kamoe, created with [e
 
 More soon.
 
-![bird the gap logo](https://ekamoe.github.com/images/bird-the-gap-logo.png)
+![bird the gap logo](images/bird-the-gap-logo.png)
