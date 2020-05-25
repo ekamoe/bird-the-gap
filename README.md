@@ -5,3 +5,8 @@ View the prototypes:
 [link to toggle heavyweight prototype](https://ekamoe.github.io/toggle-heavyweight/)
 
 Documentation coming soon.
+
+title: [Bird the Gap]
+description: [A capstone project by MLIS candidate Ellen Namakaokealoha Kamoe)]
+
+logo: [images/bird-the-gap-logo.png]
