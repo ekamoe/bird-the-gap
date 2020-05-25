@@ -1,7 +1,7 @@
 Interactive web maps to **inspire** engagement with the natural world, **inform** scientific research, and **support** conservation action
 
-A capstone project by MLIS candidate Ellen Namakaokealoha Kamoe, created with [eBird](https://ebird.org/about) & the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home)
+View the prototypes:
+[link to zoom switch lightweight prototype](https://ekamoe.github.io/zoom-switch-lightweight/)
+[link to toggle heavyweight prototype](https://ekamoe.github.io/toggle-heavyweight/)
 
-More soon.
-
-![bird the gap logo](images/bird-the-gap-logo.png)
+Documentation coming soon.
