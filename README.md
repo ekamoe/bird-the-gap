@@ -1,3 +1,5 @@
+_Interactive web maps to **inspire** engagement with the natural world, **inform** scientific research, and **support** conservation action_
+
 ## Goals of the Outreach Platform
 
 Bird the Gap is an outreach-oriented web mapping project to direct birdwatchers to locations currently underrepresented in crowdsourced data compiled by [eBird](https://ebird.org/about/) and the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home).
