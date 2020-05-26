@@ -18,7 +18,7 @@ In this prototype, both sets of raster data are included in one map. The user fi
 
 This prototype requires only one map load, making it the lighter weight, less expensive option.
 
-[Click here to view the zoom switch prototype.](https://ekamoe.github.io/zoom-switch-lightweight/)
+[Click here to view the zoom switch prototype.](https://ekamoe.github.io/zoom-switch/)
 
 ### Radio Toggle
 
@@ -26,7 +26,7 @@ This prototype contains radio buttons that allow the user to toggle between thre
 
 Because this version pulls three separate map styles, the map load is more expensive that the zoom switch prototype.
 
-[Click here to view the radio toggle prototype.](https://ekamoe.github.io/toggle-heavyweight/)
+[Click here to view the radio toggle prototype.](https://ekamoe.github.io/radio-toggle/)
 
 ### Full documentation coming soon.
 
