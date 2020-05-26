@@ -26,4 +26,6 @@ This prototype contains radio buttons that allow the user to toggle between thre
 
 [Toggle Heavyweight Prototype](https://ekamoe.github.io/toggle-heavyweight/)
 
-#### Full documentation coming soon.
+![bird the gap logo](images/bird-the-gap-logo-55.png)
+
+## Full documentation coming soon.
