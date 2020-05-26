@@ -28,6 +28,6 @@ Because this version pulls three separate map styles, the map load is more expen
 
 [Click here to view the radio toggle prototype.](https://ekamoe.github.io/toggle-heavyweight/)
 
-#### Full documentation coming soon.
+### Full documentation coming soon.
 
 ![bird the gap logo](images/bird-the-gap-logo-170.png)
