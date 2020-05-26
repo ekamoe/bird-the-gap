@@ -1,8 +1,3 @@
-####_Interactive web maps to  
-**inspire** engagement with the natural world,  
-**inform** scientific research, and  
-**support** conservation action_
-
 ## Goals of the Outreach Platform
 
 Bird the Gap is an outreach-oriented web mapping project to direct birdwatchers to locations currently underrepresented in crowdsourced data compiled by [eBird](https://ebird.org/about/) and the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home).
@@ -17,18 +12,22 @@ The resulting two sets of raster data demonstrate (1) relative **data sufficienc
 
 The scalable prototypes use Mapbox and its JavaScript library to visualize data from the week of July 6, 2018. Each prototype includes Mapbox's base layer components, such as administrative boundaries and points of interest. These maps are best viewed in a desktop browser.
 
-### Zoom Switch Lightweight
+### Zoom Switch
 
-In this prototype, both sets of raster data are included in one map. The user first sees the data sufficiency layer. As the user zooms in, the map switches to reveal the probability. This prototype requires only one map load, making it the lighter weight, less expensive option.
+In this prototype, both sets of raster data are included in one map. The user first sees the data sufficiency layer. As the user zooms in, the map switches to reveal the probability.
 
-[Zoom Switch Lightweight Prototype](https://ekamoe.github.io/zoom-switch-lightweight/)
+This prototype requires only one map load, making it the lighter weight, less expensive option.
 
-### Toggle Heavyweight
+[Click here to view the zoom switch prototype.](https://ekamoe.github.io/zoom-switch-lightweight/)
 
-This prototype contains radio buttons that allow the user to toggle between three custom styles. When the map loads, the user will see the same map as the lightweight prototype. The user can then toggle to view only one layer at a time: data sufficiency only or probability only. This version requires three map loads each time the webpage is open. Right now, there are no zoom constraints on these maps; my stretch goal is to have the newly-selected view "jump back" to a wider starting zoom level.
+### Radio Toggle
 
-[Toggle Heavyweight Prototype](https://ekamoe.github.io/toggle-heavyweight/)
+This prototype contains radio buttons that allow the user to toggle between three custom styles. When the map loads, the user will see the same map as the lightweight prototype. The user can then toggle to view only one layer at a time: data sufficiency only or probability only. Right now, there are no zoom constraints on these maps; my stretch goal is to have the newly-selected view "jump back" to a wider starting zoom level.
 
-![bird the gap logo](images/bird-the-gap-logo-170.png)
+Because this version pulls three separate map styles, the map load is more expensive that the zoom switch prototype.
+
+[Click here to view the radio toggle prototype.](https://ekamoe.github.io/toggle-heavyweight/)
 
 #### Full documentation coming soon.
+
+![bird the gap logo](images/bird-the-gap-logo-170.png)
