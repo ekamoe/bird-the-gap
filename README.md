@@ -1,3 +1,5 @@
+![Bird the Gap logo](https://ekamoe.github.com/images/bird-the-gap-logo.png)
+
 Interactive web maps to **inspire** engagement with the natural world, **inform** scientific research, and **support** conservation action
 
 View the prototypes:
