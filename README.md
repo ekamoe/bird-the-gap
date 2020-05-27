@@ -28,23 +28,19 @@ The scalable prototypes use Mapbox [Mapbox](https://www.mapbox.com/) and its Jav
 
 ## Prototype View Options
 
-These maps are best viewed in a desktop browser. Each contains a click event to reveal map coordinates for the mouse click. My stretch goal is to show only one legend at a time.
+**These maps are best viewed in a desktop browser, as media rules have not yet been defined.**
 
 ### Zoom Switch
 
 In this prototype, custom layers are controlled by zoom level. The data sufficiency layer is visible first. As the user zooms in, the map switches to reveal the probability.
 
-This prototype requires only one map load, making it less expensive to scale.
-
-Click [here](https://ekamoe.github.io/zoom-switch/) to view the zoom switch prototype.
+To view the zoom switch prototype, please open this page in a desktop browser and click [here](https://ekamoe.github.io/zoom-switch/).
 
 ### Radio Toggle
 
 This prototype contains radio buttons that allow the user to toggle between three custom styles. When the map loads, the user will see the same map as the Zoom Switch prototype. The user can toggle to view only one layer at a time.
 
-Because this version pulls three separate map styles, this would be more expensive to scale.
-
-Click [here](https://ekamoe.github.io/radio-toggle/) to view the radio toggle prototype.
+To view the radio toggle prototype, please open this page in a desktop browser and click [here](https://ekamoe.github.io/radio-toggle/).
 
 ### Full documentation coming soon.
 
