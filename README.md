@@ -8,27 +8,43 @@ Bird the Gap is an outreach-oriented web mapping project to direct birdwatchers 
 
 My sponsor, GIS Developer Tom Auer, and his team developed two statistical models to identify geographic gaps in data contributed from citizen scientists around the world in 2018.
 
-The resulting two sets of raster data demonstrate (1) relative **data sufficiency** to model abundance by administrative regions, and (2) the **probability** of receiving data from a given pixel (or habitat configuration).
+The resulting two sets of raster data demonstrate (1) relative **data sufficiency** to model abundance by administrative regions. This layer and (2) the **probability** of receiving data from a given pixel (or habitat configuration).
 
-## Prototypes
+## Map Prototypes
 
-The scalable prototypes use Mapbox and its JavaScript library to visualize data from the week of July 6, 2018. Each prototype includes Mapbox's base layer components, such as administrative boundaries and points of interest. These maps are best viewed in a desktop browser.
+The scalable prototypes use Mapbox and its JavaScript library to visualize data from the week of July 6, 2018. Each prototype includes three map layers: one Mapbox base layer and two custom layers.
+
+- Mapbox base layer
+
+![Mapbox base layer image](images/Mapbox-base-layer.png)
+
+- data sufficiency layer
+
+![data sufficiency layer image](images/data-sufficiency-layer.png)
+
+- probability layer
+
+![probability layer image](images/probability-layer.png)
+
+## Prototype Views
+
+These maps are best viewed in a desktop browser.
 
 ### Zoom Switch
 
-In this prototype, both sets of raster data are included in one map. The user first sees the data sufficiency layer. As the user zooms in, the map switches to reveal the probability.
+In this prototype, both custom layers. The data sufficiency layer is visible first. As the user zooms in, the map switches to reveal the probability.
 
-This prototype requires only one map load, making it the lighter weight, less expensive option.
+This prototype requires only one map load, making it less expensive to scale.
 
-[Click here to view the zoom switch prototype.](https://ekamoe.github.io/zoom-switch/)
+Click [here](https://ekamoe.github.io/zoom-switch/) to view the zoom switch prototype.
 
 ### Radio Toggle
 
-This prototype contains radio buttons that allow the user to toggle between three custom styles. When the map loads, the user will see the same map as the lightweight prototype. The user can then toggle to view only one layer at a time: data sufficiency only or probability only. Right now, there are no zoom constraints on these maps; my stretch goal is to have the newly-selected view "jump back" to a wider starting zoom level.
+This prototype contains radio buttons that allow the user to toggle between three custom styles. When the map loads, the user will see the same map as the Zoom Switch prototype. The user can then toggle to view only one layer at a time: data sufficiency only or probability only.
 
-Because this version pulls three separate map styles, the map load is more expensive that the zoom switch prototype.
+Because this version pulls three separate map styles, this would be more expensive to scale.
 
-[Click here to view the radio toggle prototype.](https://ekamoe.github.io/radio-toggle/)
+Click [here](https://ekamoe.github.io/radio-toggle/) to view the radio toggle prototype.
 
 ### Full documentation coming soon.
 
