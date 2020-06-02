@@ -32,7 +32,7 @@ The scalable prototypes use Mapbox [Mapbox](https://www.mapbox.com/) and its Jav
 
 ### Zoom Switch
 
-In this prototype, custom layers are controlled by zoom level. The data sufficiency layer is visible first. As the user zooms in, the map switches to reveal the probability.
+In this prototype, custom layers are controlled by zoom level. The data sufficiency layer is visible first. As the user zooms in, the map switches to reveal the probability layer.
 
 To view the zoom switch prototype, please open this page in a desktop browser and click [here](https://ekamoe.github.io/zoom-switch/).
 
@@ -42,6 +42,8 @@ This prototype contains radio buttons that allow the user to toggle between thre
 
 To view the radio toggle prototype, please open this page in a desktop browser and click [here](https://ekamoe.github.io/radio-toggle/).
 
-### Full documentation coming soon.
+### Documentation
+
+Read my full documentation [here](https://ekamoe.gitbook.io/bird-the-gap-documentation/).
 
 ![bird the gap logo](images/bird-the-gap-logo-170.png)
