@@ -1,6 +1,6 @@
-![bird the gap logo](images/bird-the-gap-logo-170.png)
-
 _Interactive web maps to **inspire** engagement with the natural world, **inform** scientific research, and **support** conservation action_
+
+![bird the gap logo](images/bird-the-gap-logo-170.png)
 
 ## Goals of the Outreach Platform
 
