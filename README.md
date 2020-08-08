@@ -12,7 +12,7 @@ Read my [full documentation here](https://ekamoe.gitbook.io/bird-the-gap-documen
 
 My sponsor, GIS Developer [Tom Auer](https://www.birds.cornell.edu/home/staff/tom-auer/), and his team developed two statistical models to identify geographic gaps in data contributed from citizen scientists around the world in 2018.
 
-The resulting two sets of raster data demonstrate (1) a relative measure of **data sufficiency** for [eBirdScience](https://ebird.org/science) to build abundance models for use in its Status and Trends projects, and (2) the **probability** of receiving an eBird checklist from a given habitat configuration.
+The resulting two sets of raster data demonstrate (1) a relative measure of **data sufficiency** for [eBird Science](https://ebird.org/science) to build abundance models for use in its Status and Trends projects, and (2) the **probability** of receiving an eBird checklist from a given habitat configuration.
 
 ## Map Prototypes
 
